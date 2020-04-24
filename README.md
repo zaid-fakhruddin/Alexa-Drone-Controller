@@ -22,7 +22,7 @@ Demo Video here: [Alexa Voice Controlled Drone Demo](https://youtu.be/2rsM4CG1Bc
 
 ----------------------------------
 When a user sends a command:
-1. A lambda function behind the alexa skills kit processes the commands sent by the user and publishes them to the Rasberry Pi.
+1. A lambda function behind the alexa skills kit processes the commands sent by the user and publishes them to the Raspberry Pi.
       * AWS IoT Core sits between the lambda function and the raspberry pi to facilitate secure communication over MQTT.
 2. The lambda function publishes the commands to a MQTT topic, and the raspberry pi(which is subscribed to the topic): receives the commands from the lambda function.
 3. **Raspberry Pi 4 (connected to the drone via wifi)**
