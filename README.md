@@ -1,7 +1,7 @@
 # Alexa Voice Controlled Drone
 This project allows you to control a DJI Tello drone with your voice using alexa. 
 
-Demo Video here: [Alexa Voice Controlled Drone Demo](https://youtu.be/2rsM4CG1Bc)
+Demo Video here: [Alexa Voice Controlled Drone Demo](https://youtu.be/2rsM4CG1BcE)
 ---
 # Tech Stack
 - Raspberry Pi 4
