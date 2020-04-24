@@ -28,9 +28,6 @@ When a user sends a command:
       
 ![](images/upload.png)
 
-# Video Demo 
-
-Checkout this link to see this project in action! 
 
 
 
